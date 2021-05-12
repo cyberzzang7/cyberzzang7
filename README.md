@@ -18,6 +18,8 @@ I'm very interested in development, either Front-End or Back-End.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberzzang7&layout=compact&theme=simple)](https://github.com/cyberzzang7)
 
 </div>
+<hr>
+</hr>
 
 ### :telephone_receiver:Contact!
 
@@ -28,3 +30,6 @@ I'm very interested in development, either Front-End or Back-End.
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyberzzang6@gmail.com)](mailto:cyberzzang6@gmail.com)
 	
 </div>
+
+<hr>
+</hr>
