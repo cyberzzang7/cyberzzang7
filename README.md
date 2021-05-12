@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberzzang7&show_icons=true&theme=radical)
 
-	
+	 <div align=center>
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMXo5R3NzDnu6g6lSVPPiIg)](https://www.youtube.com/channel/UCMXo5R3NzDnu6g6lSVPPiIg)
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cyberzzang6)](https://www.facebook.com/cyberzzang6)
