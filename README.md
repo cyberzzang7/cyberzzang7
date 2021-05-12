@@ -29,7 +29,8 @@ I'm very interested in development, either Front-End or Back-End.
 
 | **Title** | **Date** | **Contents** | **Organization** |
 |:---------:|:---------:|:---------:|:---------:|
-| **Fingerprint attendance system** | 2018.2 ~ Proceeding | A system that checks the correct attendance time | Youngjin College |
+| **Fingerprint attendance system** | 2018.2 ~ Proceeding | A system that checks the correct attendance time | Youngjin College 
+| **Fair Online Coding Test** | 2020.11 ~ Proceeding | A system that prevents cheating in non-face-to-face testing | Youngjin College
 
 <hr>
 </hr>
