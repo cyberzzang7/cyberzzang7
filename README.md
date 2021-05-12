@@ -8,6 +8,7 @@ My name is Kim WonHyoung :)
 I have experience with JavaScript, Vue.js, and Python projects.
 
 I'm very interested in development, either Front-End or Back-End.
+<br>
 </br>
 <div display=inline>
 	
