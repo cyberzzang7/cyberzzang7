@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberzzang7&layout=compact&theme=simple)](https://github.com/cyberzzang7)
 
 </div>
-<div align=center display=inline>
+<div align=center,display=inline>
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMXo5R3NzDnu6g6lSVPPiIg)](https://www.youtube.com/channel/UCMXo5R3NzDnu6g6lSVPPiIg)
 	
