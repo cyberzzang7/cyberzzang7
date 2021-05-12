@@ -15,7 +15,7 @@ I'm very interested in development, either Front-End or Back-End.
 
 </div>
 
-:telephone_receiver: ### Contact!
+### :telephone_receiver:Contact!
 
 <div display=inline>
 	
