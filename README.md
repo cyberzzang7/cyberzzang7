@@ -69,4 +69,4 @@ I'm very interested in development, either Front-End or Back-End.
 <hr>
 </hr>
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&color=gradient&rotate=180)
+![reversal](https://capsule-render.vercel.app/api?type=slice&color=gradient&rotate=-180)
