@@ -24,9 +24,10 @@ I'm very interested in development, either Front-End or Back-End.
 </div>
 <hr>
 </hr>
+### Career
 
-| **Title** | **Date** | **Contents** | **Organization**
-| **Fingerprint attendance system** | 2018.2 ~ Proceeding | A system that checks the correct attendance time | Youngjin College
+| **Title** | **Date** | **Contents** | **Organization** |
+| **Fingerprint attendance system** | 2018.2 ~ Proceeding | A system that checks the correct attendance time | Youngjin College |
 
 <hr>
 </hr>
