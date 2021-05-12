@@ -20,10 +20,7 @@ I'm very interested in development, either Front-End or Back-End.
 <div display=inline>
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMXo5R3NzDnu6g6lSVPPiIg)](https://www.youtube.com/channel/UCMXo5R3NzDnu6g6lSVPPiIg)
-	
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cyberzzang6)](https://www.facebook.com/cyberzzang6)
-	
-	
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cyberzzang6)](https://www.facebook.com/cyberzzang6)	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyberzzang6@gmail.com)](mailto:cyberzzang6@gmail.com)
 	
 </div>
