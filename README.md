@@ -1,9 +1,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=youtubetv.svg&icon_color=%23E3E3E3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-##Hello!
+## Hello!
 My name is Kim WonHyoung :)
+
 I have experience with JavaScript, Vue.js, and Python projects.
+
 I'm very interested in development, either Front-End or Back-End.
 
 <div display=inline>
