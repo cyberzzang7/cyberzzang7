@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=FFFA78&section=header&text=Positive Developer&fontSize=40&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=FFFA78&section=header&text=PositiveDeveloper&fontSize=40&animation=blink)
 
 
 
