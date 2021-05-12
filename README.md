@@ -69,4 +69,4 @@ I'm very interested in development, either Front-End or Back-End.
 <hr>
 </hr>
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&reversal=true%20render&fontSize=40)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
