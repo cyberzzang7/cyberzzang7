@@ -23,7 +23,7 @@ I'm very interested in development, either Front-End or Back-End.
 <div display=inline>
 	
 ### :punch: Skill!
-#### Framework & Languages
+#### :mortar_board: Framework & Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -37,7 +37,7 @@ I'm very interested in development, either Front-End or Back-End.
 
 <div display=inline>
 	
-#### :mortar_board: :bar_chart: DB
+#### :bar_chart: DB
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
