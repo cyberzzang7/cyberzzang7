@@ -8,7 +8,7 @@ My name is Kim WonHyoung :)
 I have experience with JavaScript, Vue.js, and Python projects.
 
 I'm very interested in development, either Front-End or Back-End.
-
+</hr>
 <div display=inline>
 	
 ![WonHyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberzzang7&show_icons=true&theme=simple)
