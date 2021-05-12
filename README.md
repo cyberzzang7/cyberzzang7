@@ -69,5 +69,5 @@ I'm very interested in development, either Front-End or Back-End.
 <hr>
 </hr>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice)
 
