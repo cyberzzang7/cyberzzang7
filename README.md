@@ -20,12 +20,14 @@ I'm very interested in development, either Front-End or Back-End.
 </div>
 <hr>
 </hr>
+
 ### :punch: Skill!
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <hr>
 </hr>
+
 ### :telephone_receiver:Contact!
 
 <div display=inline>
