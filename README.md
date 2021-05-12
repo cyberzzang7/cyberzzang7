@@ -37,13 +37,13 @@ I'm very interested in development, either Front-End or Back-End.
 
 <div display=inline>
 	
-#### DB
+#### :mortar_board: :bar_chart: DB
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 <div display=inline>
 
-##### OS
+##### :computer: OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
