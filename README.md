@@ -23,8 +23,7 @@ I'm very interested in development, either Front-End or Back-End.
 
 ### :punch: Skill!
 
-<img src="https://img.shields.io/badge/JavaScript
-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <hr>
 </hr>
