@@ -24,6 +24,12 @@ I'm very interested in development, either Front-End or Back-End.
 </div>
 <hr>
 </hr>
+
+| **Title** | **Date** | **Contents** | **Organization**
+| **Fingerprint attendance system** | 2018.2 ~ Proceeding | A system that checks the correct attendance time | Youngjin College
+
+<hr>
+</hr>
 <div display=inline>
 	
 ### :punch: Skill!
