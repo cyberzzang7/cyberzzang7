@@ -20,7 +20,12 @@ I'm very interested in development, either Front-End or Back-End.
 </div>
 <hr>
 </hr>
+### :punch: Skill!
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<hr>
+</hr>
 ### :telephone_receiver:Contact!
 
 <div display=inline>
@@ -30,6 +35,7 @@ I'm very interested in development, either Front-End or Back-End.
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyberzzang6@gmail.com)](mailto:cyberzzang6@gmail.com)
 	
 </div>
+
 
 <hr>
 </hr>
